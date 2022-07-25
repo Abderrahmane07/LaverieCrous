@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873544683626",
+    "project_id": "laverie-2c141",
+    "storage_bucket": "laverie-2c141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873544683626:android:437fbdadd673ef54183a13",
+        "android_client_info": {
+          "package_name": "com.cvague.blogspot.laverie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873544683626-l98ciclmhb0cb7c121d1po15ia6llsu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1JkEOp9vG6njH14y8LoQMh4m1zlyabAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873544683626-l98ciclmhb0cb7c121d1po15ia6llsu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
